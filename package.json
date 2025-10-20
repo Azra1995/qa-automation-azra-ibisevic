@@ -1,0 +1,20 @@
+{
+  "name": "qa-automation-azra-ibisevic",
+  "version": "1.0.0",
+  "description": "projekat za vjezbanje automation testiranja",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azra1995/qa-automation-azra-ibisevic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azra1995/qa-automation-azra-ibisevic/issues"
+  },
+  "homepage": "https://github.com/Azra1995/qa-automation-azra-ibisevic#readme"
+}
